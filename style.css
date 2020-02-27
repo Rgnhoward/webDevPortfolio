@@ -1,6 +1,11 @@
 #header, #content, #aside,#nav,#footer{
 	display: block;
 }
+body {
+background-image: url("../images/police-car-384x288.png");
+background: repeat-x;
+background: repeat-y;
+}
 
 div#header {
 	height:100px;
