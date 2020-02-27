@@ -19,8 +19,7 @@ div#header {
 	font-family: Lucinda-Handwriting;
 	font-style: italic;
 	font-size: 18px;
-	background-image: url("../css/css-textured-298x290.gif");
-    background-repeat: repeat-x;
+	
 }
 div#nav {
 	width: 100%;
